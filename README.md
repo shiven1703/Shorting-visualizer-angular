@@ -10,10 +10,7 @@
 - [Sorting Visualization](#sorting-visualization)
     + [Table of Contents](#table-of-contents)
   * [Description](#description)
-      - [Technologies](#technologies)
-      - [Algorithms](#algorithms)
   * [How To Use](#how-to-use)
-      - [Installation](#installation)
   * [License](#license)
   * [Author Info](#author-info)
 
