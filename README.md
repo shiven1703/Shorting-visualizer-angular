@@ -37,7 +37,7 @@ Just click on the algorithm button present on the upper navigation bar to see th
 - Bubble Sort
 - Heap Sort
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#sorting-visualization)
 
 ---
 
@@ -47,7 +47,7 @@ Just click on the algorithm button present on the upper navigation bar to see th
 #### Installation
 You need angular pre installed. For using this project you can pull this repository and open that repo in command prompt and do npm install to add the node_modules. Now for running int just do `ng serve`.
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#sorting-visualization)
 
 ---
 
@@ -76,7 +76,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#sorting-visualization)
 
 ---
 
@@ -85,5 +85,5 @@ SOFTWARE.
 - Hacker Rank Profile- [@LosPapes](https://www.hackerrank.com/LosPepes)
 - LinkedIn profile- [@Shyam Patel](https://www.linkedin.com/in/patelshyam54/)
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#sorting-visualization)
 
