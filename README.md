@@ -2,7 +2,7 @@
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/26683455/108638155-1ddaf900-748e-11eb-8987-57d536d1d0f8.gif)
 
-> Angular8 based Web application to see the diffrence between sorting algorithms like Mergesort, Quicksort, Bubblesort, Heapsort.
+> To see the difference between sorting algorithms such as Mergesort, Quicksort, Bubblesort, Heapsort, the Angular8 based web application.
 
 ---
 
@@ -17,9 +17,9 @@
 ---
 
 ## Description
-This application demonstrate the diffrence between sorting algorithms like Mergesort, Quicksort, Bubblesort, Heapsort. It has option for redefining the array. The underlying process of it is that according to the sorting algorithm first programme will create animations then it will apply those animations to the Array-bars displyed on the screen.
+The difference between sorting algorithms such as Mergesort, Quicksort, Bubblesort and Heapsort is illustrated by this application. An choice to redefine the array is available. The underlying process is that First of all program will generate animations according to the sorting algorithm, then those animations will be transferred to the Array-bars shown on the screen.
 
-Just click on the algorithm button present on the upper navigation bar to see the sorting. If you want to see other algorithm then click on redefine the array and again click on the algorithm which you want to see.
+To see the sorting, simply press the algorithm button in the upper navigation bar. If you want to see a different algorithm, press redefine the list, and then click the algorithm you want to see again.
 
 
 #### Technologies
