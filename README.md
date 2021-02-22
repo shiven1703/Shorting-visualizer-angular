@@ -13,6 +13,7 @@
   * [How To Use](#how-to-use)
   * [License](#license)
   * [Author Info](#author-info)
+  * [Inspiration](#inspiration)
 
 ---
 
@@ -86,5 +87,7 @@ SOFTWARE.
 
 ## Inspiration
 - Clément Mihailescu- [@Clement Mihailescu](https://clementmihailescu.github.io/Sorting-Visualizer/)
+
+[Back To The Top](#sorting-visualization)
 
 
