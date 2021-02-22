@@ -84,3 +84,7 @@ SOFTWARE.
 
 [Back To The Top](#sorting-visualization)
 
+## Inspiration
+- Clément Mihailescu- [@Clement Mihailescu](https://clementmihailescu.github.io/Sorting-Visualizer/)
+
+
